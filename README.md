@@ -40,10 +40,10 @@ The functionality of this skill is simple to describe: **show the latest Alexa f
 
 ## Building your own skill
 
-When running your own experiments the first obvious step is to change "URI" to another web address of your interest. Not every page will appear as expected, there are a number of documented [restrictions](https://developer.amazon.com/en-US/docs/alexa/web-api-for-games/alexa-presentation-html-interface.html#restrictions-of-the-html-environment). One will see that one thing required is "https".
+When running your own experiments the first obvious step is to change "URI" to another web address of your interest. Not every page will appear as expected, there are a number of documented [restrictions](https://developer.amazon.com/en-US/docs/alexa/web-api-for-games/alexa-presentation-html-interface.html#restrictions-of-the-html-environment). You will see that one thing required is "https".
 
 ## Be warned: No chance of certification if skill is not related to games
 
-Though I believe this could be useful for developers in real world scenarios I will not try to have this skill certified: **Restrictions in the guide lines make it very clear that Web API should only be used for the domain of gaming**. 
+Though I believe that my example could be useful for developers in real world scenarios I will not try to have this skill certified: **Restrictions in the guide lines make it very clear that Web API should only be used for the domain of gaming**. 
 
 I do not agree that this makes sense but they may have their reasons. By saying this I want to make sure you do not invest work into a briliant skill idea and end up with a prototype which will never make it into production.
